@@ -2,7 +2,7 @@
 R-Genomic-Visualization
 ## 👤 Author
 
-**Abdullah Alvi**  
+**Abdullah Afzal Alvi**  
 📧 Connect with me on [LinkedIn](https://www.linkedin.com/in/) | [GitHub](https://github.com/)
 # 🧬 Genomic Visualization with gggenes in R
 
